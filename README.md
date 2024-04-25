@@ -1,3 +1,5 @@
-Enumeradores (enum)
+Comando condicional IF
 
-Permite criarmos um tipo personalizado com valores pré-definidos pelo programador
+= = igualdade / comparação
+= atribuição (atribuir um valor a uma variável, por exemplo)
+
